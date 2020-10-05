@@ -1,0 +1,52 @@
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+c:\users\star computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Star Computer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Star Computer\Desktop\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Files and Softwares\backup\C# Working\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Files and Softwares\ass\Windows Forms\projects\C# Quiz\WindowsFormsApplication4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
